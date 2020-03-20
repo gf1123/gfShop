@@ -1,0 +1,54 @@
+[33mcommit be63948ca96cf6995b6341a51d10657c5c21c593[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: gf1123 <786329585@qq.com>
+Date:   Fri Mar 20 16:06:23 2020 +0800
+
+    x新增文件txtccc
+
+[33mcommit d25746eb2d265bdcf3674196a3651b89e461fbbc[m
+Author: gf1123 <786329585@qq.com>
+Date:   Fri Mar 20 16:01:49 2020 +0800
+
+    新增bbb
+
+[33mcommit 1a2a2b7f9eed6b84010f0dd982fbb870435eb26f[m
+Author: gf1123 <786329585@qq.com>
+Date:   Fri Mar 20 15:58:18 2020 +0800
+
+    新增txt
+
+[33mcommit 2de6e75b9fd4fee7f1df6debafc9be9c7683adb8[m
+Merge: ebb1f95 b7b75bd
+Author: gf1123 <786329585@qq.com>
+Date:   Fri Mar 20 15:52:53 2020 +0800
+
+    解决了冲突
+
+[33mcommit ebb1f9502d48c65ee63d2f330b9593fece930b46[m
+Author: gf1123 <786329585@qq.com>
+Date:   Fri Mar 20 15:48:08 2020 +0800
+
+    修改了index文件
+
+[33mcommit b7b75bdf54ab745ff181536d6fa3bf60facdf5af[m
+Author: gf1123 <62415744+gf1123@users.noreply.github.com>
+Date:   Fri Mar 20 15:45:09 2020 +0800
+
+    11111
+
+[33mcommit 85a65faa9820cb067f6a01d93ca93982f636beeb[m
+Author: gf1123 <786329585@qq.com>
+Date:   Fri Mar 20 15:35:17 2020 +0800
+
+    新增内容了
+
+[33mcommit 496cf01904606b6d7304572343ec6a925cb75ebe[m
+Author: gf1123 <62415744+gf1123@users.noreply.github.com>
+Date:   Fri Mar 20 15:21:36 2020 +0800
+
+    创建index1
+
+[33mcommit 0155ccd2a007831381a564c7f346271a25f08f37[m
+Author: gf1123 <786329585@qq.com>
+Date:   Fri Mar 20 15:14:29 2020 +0800
+
+    初始化index文件
